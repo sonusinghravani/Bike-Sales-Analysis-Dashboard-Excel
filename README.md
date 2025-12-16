@@ -49,7 +49,9 @@ The dashboard includes the following key visualizations:
 1.  **Focus on Metro Markets:** Since resale prices are stable in Metro and Tier 1 cities, marketing efforts should focus there.
 2.  **Insurance Value Add:** Since many bikes have expired insurance, sellers offering "Renewed Insurance" could sell faster.
 3.  **Brand Strategy:** Dealers should stock more **Royal Enfield** and **Yamaha** bikes as they retain higher value compared to other brands.
+   
 ## Dashboard Preview Link
 https://github.com/sonusinghravani/Bike-Sales-Analysis-Dashboard-Excel/blob/main/Dashboard%20Bike%20sale%20board.png
+
 ---
 *Created by Sonu Kumar | Data Analyst Aspirant*
